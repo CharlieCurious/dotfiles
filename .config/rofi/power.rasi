@@ -1,0 +1,7 @@
+inputbar {
+	enabled: false;
+}
+
+listview {
+	lines: 3;
+}
